@@ -5,7 +5,7 @@
 
 # Installation
 1. Open Magisk Manager
-2. Install module [Hosts](https://t.me/modulkuntul)
+2. Install module [Hosts ABPVN](https://t.me/modulkuntul)
 3. Reboot
 <hr/>
 
