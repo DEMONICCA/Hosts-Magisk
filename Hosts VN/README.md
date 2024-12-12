@@ -33,9 +33,7 @@
 <hr/>
 
 > **SOURCE**    
-> [hostsVN](https://github.com/bigdargon/hostsVN) | [ABPVN](https://abpvn.com/android/abpvn.txt) | [AdAway](https://adaway.org/hosts.txt) | [yoyo](https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0) | 
-[pete](https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext) | [FadeMind](https://github.com/FadeMind) | [KADhosts](https://github.com/FiltersHeroes) | [StevenBlack](https://github.com/StevenBlack) | [Badd Boyz](https://github.com/mitchellkrogza)
-
+> [hostsVN](https://github.com/bigdargon/hostsVN) | [ABPVN](https://abpvn.com/android/abpvn.txt) | [AdAway](https://adaway.org/hosts.txt) | [yoyo](https://pgl.yoyo.org) | [Tiuxo](https://github.com/tiuxo) | [FadeMind](https://github.com/FadeMind) | [KADhosts](https://github.com/FiltersHeroes) | [StevenBlack](https://github.com/StevenBlack) | [Badd Boyz](https://github.com/mitchellkrogza) | [Don pollock](https://someonewhocares.org/hosts/zero/hosts) | [URLHAUS](https://urlhaus.abuse.ch/downloads/hostfile/) | [MVPS](https://winhelp2002.mvps.org/hosts.txt)
 
 > [![Telegram URL](https://img.shields.io/badge/Telegram-Join-2CA5E?style=social&logo=telegram)](https://t.me/modulkuntul)
 > <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/34376b0e-4ae2-4278-9d3d-82e8016a87d6" width="40">&nbsp;
