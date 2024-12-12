@@ -1,12 +1,12 @@
 > ![20241105_022520](https://github.com/user-attachments/assets/2381350a-b678-4801-90d4-a38d780ab56e)
 
 > **DESCRIPTION...**    
-> Hosts VN Blocked: 20,629 domains [Hosts Updated: 25 Oct 2024 10:02 UTC+7]. [Saurce](https://github.com/bigdargon/hostsVN)
+> Your digital bodyguard. This Magisk module removes ads and malware, keeps your apps clean and your browsing smooth. Surf smart, surf safe!.
 <hr/>
 
 > [!TIP]
 > 1. Open Magisk Manager or Ksu or APatch
-> 2. Install module [Hosts VN](https://t.me/modulkuntul)
+> 2. Install module [Demonic Hosts](https://t.me/modulkuntul)
 > 3. Reboot
 <hr/>
 
@@ -32,10 +32,15 @@
 > Redmi Note 7 (LAVENDER)
 <hr/>
 
+> **SOURCE**    
+> [hostsVN](https://github.com/bigdargon/hostsVN) | [ABPVN](https://abpvn.com/android/abpvn.txt) | [AdAway](https://adaway.org/hosts.txt) | [yoyo](https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0) | 
+[pete](https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext) | [FadeMind](https://github.com/FadeMind) | [KADhosts](https://github.com/FiltersHeroes) | [StevenBlack](https://github.com/StevenBlack) | [Badd Boyz](https://github.com/mitchellkrogza)
+
+
 > [![Telegram URL](https://img.shields.io/badge/Telegram-Join-2CA5E?style=social&logo=telegram)](https://t.me/modulkuntul)
 > <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/34376b0e-4ae2-4278-9d3d-82e8016a87d6" width="40">&nbsp;
 >   
 > [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/illumi666)
-> <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="30" />
+> <img src="https://raw.githubuserhttps://github.com/FiltersHeroescontent.com/innng/innng/master/assets/kyubey.gif" height="30" />
 > <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 <hr/>
