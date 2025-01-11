@@ -31,7 +31,7 @@
 <hr/>
 
 > **SOURCE**    
-> [hostsVN](https://github.com/bigdargon/hostsVN) | [ABPVN](https://abpvn.com/android/abpvn.txt) | [AdAway](https://adaway.org/hosts.txt) | [yoyo](https://pgl.yoyo.org) | [Tiuxo](https://github.com/tiuxo) | [FadeMind](https://github.com/FadeMind) | [KADhosts](https://github.com/FiltersHeroes) | [StevenBlack](https://github.com/StevenBlack) | [Badd Boyz](https://github.com/mitchellkrogza) | [Don pollock](https://someonewhocares.org/hosts/zero/hosts) | [URLHAUS](https://urlhaus.abuse.ch/downloads/hostfile/) | [MVPS](https://winhelp2002.mvps.org/hosts.txt) | [VN](https://raw.githubusercontent.com/bigdargon/hostsVN) | [extended](https://www.github.developerdan.com/hosts/lists/)
+> [WZT](https://raw.githubusercontent.com/What-Zit-Tooya/Ad-Block/main/Main-Blocklist/Ad-Block-HOSTS.txt) | [ABPVN](https://abpvn.com/android/abpvn.txt) | [AdAway](https://adaway.org/hosts.txt) | [yoyo](https://pgl.yoyo.org) | [Tiuxo](https://github.com/tiuxo) | [FadeMind](https://github.com/FadeMind) | [KADhosts](https://github.com/FiltersHeroes) | [StevenBlack](https://github.com/StevenBlack) | [Badd Boyz](https://github.com/mitchellkrogza) | [Don pollock](https://someonewhocares.org/hosts/zero/hosts) | [URLHAUS](https://urlhaus.abuse.ch/downloads/hostfile/) | [MVPS](https://winhelp2002.mvps.org/hosts.txt) | [VN](https://raw.githubusercontent.com/bigdargon/hostsVN) | [extended](https://www.github.developerdan.com/hosts/lists/)
 
 > [![Telegram URL](https://img.shields.io/badge/Telegram-Join-2CA5E?style=social&logo=telegram)](https://t.me/modulkuntul)
 > <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/34376b0e-4ae2-4278-9d3d-82e8016a87d6" width="40">&nbsp;
