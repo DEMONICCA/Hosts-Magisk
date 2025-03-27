@@ -9,7 +9,7 @@
 > Features 🚀:
 > 1. Ultimate Hosts. ✔️
 > 2. Covers several sources such as.
-[[WZT](https://raw.githubusercontent.com/What-Zit-Tooya/Ad-Block/main/Main-Blocklist/Ad-Block-HOSTS.txt) | [ABPVN](https://abpvn.com/android/abpvn.txt) | [AdAway](https://adaway.org/hosts.txt) | [yoyo](https://pgl.yoyo.org) | [Tiuxo](https://github.com/tiuxo) | [FadeMind](https://github.com/FadeMind) | [KADhosts](https://github.com/FiltersHeroes) | [StevenBlack](https://github.com/StevenBlack) | [Badd Boyz](https://github.com/mitchellkrogza) | [Don pollock](https://someonewhocares.org/hosts/zero/hosts) | [URLHAUS](https://urlhaus.abuse.ch/downloads/hostfile/) | [MVPS](https://winhelp2002.mvps.org/hosts.txt) | [VN](https://raw.githubusercontent.com/bigdargon/hostsVN) | [extended](https://www.github.developerdan.com/hosts/lists/)] ✔️
+[ [WZT](https://raw.githubusercontent.com/What-Zit-Tooya/Ad-Block/main/Main-Blocklist/Ad-Block-HOSTS.txt) | [ABPVN](https://abpvn.com/android/abpvn.txt) | [AdAway](https://adaway.org/hosts.txt) | [yoyo](https://pgl.yoyo.org) | [Tiuxo](https://github.com/tiuxo) | [FadeMind](https://github.com/FadeMind) | [KADhosts](https://github.com/FiltersHeroes) | [StevenBlack](https://github.com/StevenBlack) | [Badd Boyz](https://github.com/mitchellkrogza) | [Don pollock](https://someonewhocares.org/hosts/zero/hosts) | [URLHAUS](https://urlhaus.abuse.ch/downloads/hostfile/) | [MVPS](https://winhelp2002.mvps.org/hosts.txt) | [VN](https://raw.githubusercontent.com/bigdargon/hostsVN) | [extended](https://www.github.developerdan.com/hosts/lists/) ] ✔️
 > - Thank you for the following sources
 I apologize if there are some sources that are not listed.
 <hr/>
